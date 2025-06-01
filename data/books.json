@@ -1,0 +1,290 @@
+[
+  {
+    "id": 4,
+    "title": "Linear Algebra",
+    "author": "Gilbert Strang",
+    "year": 1991,
+    "genre": "Mathematic",
+    "description": "MITOCW",
+    "created_at": "2025-05-26 19:37:06"
+  },
+  {
+    "id": 6,
+    "title": "Tom Clancy's Net Force",
+    "author": "T, o, m,  , C, l, a, n, c, y",
+    "year": 1998,
+    "genre": "Computer crimes, Fiction, Investigation",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 09:24:53"
+  },
+  {
+    "id": 7,
+    "title": "Game Ai Pro 360",
+    "author": "S, t, e, v, e,  , R, a, b, i, n",
+    "year": 2019,
+    "genre": "Artificial intelligence, Computer games, programming, Computer games, design",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 09:24:58"
+  },
+  {
+    "id": 9,
+    "title": "Reconfigurable Processor Array A Bit Sliced Parallel Computer (USA)",
+    "author": "A, .,  , R, u, s, h, t, o, n",
+    "year": 1986,
+    "genre": "Industrial safety, Management, Macroeconomics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 09:28:28"
+  },
+  {
+    "id": 10,
+    "title": "Numerical methods for engineers",
+    "author": "S, t, e, v, e, n,  , C, .,  , C, h, a, p, r, a",
+    "year": 1985,
+    "genre": "Data processing, Microcomputers, Engineering mathematics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 09:28:34"
+  },
+  {
+    "id": 12,
+    "title": "Tom Clancy's Net Force",
+    "author": "Tom Clancy",
+    "year": 1998,
+    "genre": "Computer crimesFictionInvestigation",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 15:02:20"
+  },
+  {
+    "id": 13,
+    "title": "Game Ai Pro 360",
+    "author": "Steve Rabin",
+    "year": 2019,
+    "genre": "Artificial intelligenceComputer games, programmingComputer games, design",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 15:02:50"
+  },
+  {
+    "id": 14,
+    "title": "Structured Computer Organization",
+    "author": "Andrew S. Tanenbaum",
+    "year": 1975,
+    "genre": "Computer organizationComputer programmingElectronic digital computers",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 15:34:11"
+  },
+  {
+    "id": 16,
+    "title": "Structured Computer Organization",
+    "author": "Andrew S. Tanenbaum",
+    "year": 1975,
+    "genre": "Computer organizationComputer programmingElectronic digital computers",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 16:38:59"
+  },
+  {
+    "id": 17,
+    "title": "Numerical methods for engineers",
+    "author": "Steven C. Chapra",
+    "year": 1985,
+    "genre": "Data processingMicrocomputersEngineering mathematics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:32"
+  },
+  {
+    "id": 18,
+    "title": "Reconfigurable Processor Array A Bit Sliced Parallel Computer (USA)",
+    "author": "A. Rushton",
+    "year": 1986,
+    "genre": "Industrial safetyManagementMacroeconomics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 19,
+    "title": "Software Engineering",
+    "author": "Roger S. Pressman",
+    "year": 1982,
+    "genre": "Software engineeringElectronic digital computersProgramming",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 20,
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "year": 1978,
+    "genre": "C (Computer program language)Linguagem De Programacao (Outras)C (programmeertaal)",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 21,
+    "title": "Game Ai Pro 360",
+    "author": "Steve Rabin",
+    "year": 2019,
+    "genre": "Artificial intelligenceComputer games, programmingComputer games, design",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 22,
+    "title": "Tom Clancy's Net Force",
+    "author": "Tom Clancy",
+    "year": 1998,
+    "genre": "Computer crimesFictionInvestigation",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 23,
+    "title": "Information systems literacy",
+    "author": "Hossein Bidgoli",
+    "year": 1993,
+    "genre": "1-2-3 for WindowsApplication softwareBusiness",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 24,
+    "title": "IBM PC Apprentice",
+    "author": "Inc. Wordware Pub.",
+    "year": 1984,
+    "genre": "IBM Personal ComputerOpen Access (Computer program)Data processing",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 25,
+    "title": "Numerical methods for engineers",
+    "author": "Steven C. Chapra",
+    "year": 1985,
+    "genre": "Data processingMicrocomputersEngineering mathematics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 26,
+    "title": "IEEE standard for information technology",
+    "author": "Institute of Electrical and Electronics Engineers",
+    "year": 1991,
+    "genre": "Ada (Computer program language)Application program interfaces (Computer software)Application software",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 27,
+    "title": "Structured Computer Organization",
+    "author": "Andrew S. Tanenbaum",
+    "year": 1975,
+    "genre": "Computer organizationComputer programmingElectronic digital computers",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:44:52"
+  },
+  {
+    "id": 28,
+    "title": "Reconfigurable Processor Array A Bit Sliced Parallel Computer (USA)",
+    "author": "A. Rushton",
+    "year": 1986,
+    "genre": "Industrial safetyManagementMacroeconomics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 29,
+    "title": "Software Engineering",
+    "author": "Roger S. Pressman",
+    "year": 1982,
+    "genre": "Software engineeringElectronic digital computersProgramming",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 30,
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "year": 1978,
+    "genre": "C (Computer program language)Linguagem De Programacao (Outras)C (programmeertaal)",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 31,
+    "title": "Game Ai Pro 360",
+    "author": "Steve Rabin",
+    "year": 2019,
+    "genre": "Artificial intelligenceComputer games, programmingComputer games, design",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 32,
+    "title": "Tom Clancy's Net Force",
+    "author": "Tom Clancy",
+    "year": 1998,
+    "genre": "Computer crimesFictionInvestigation",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 33,
+    "title": "Information systems literacy",
+    "author": "Hossein Bidgoli",
+    "year": 1993,
+    "genre": "1-2-3 for WindowsApplication softwareBusiness",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 34,
+    "title": "IBM PC Apprentice",
+    "author": "Inc. Wordware Pub.",
+    "year": 1984,
+    "genre": "IBM Personal ComputerOpen Access (Computer program)Data processing",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 35,
+    "title": "Numerical methods for engineers",
+    "author": "Steven C. Chapra",
+    "year": 1985,
+    "genre": "Data processingMicrocomputersEngineering mathematics",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 36,
+    "title": "IEEE standard for information technology",
+    "author": "Institute of Electrical and Electronics Engineers",
+    "year": 1991,
+    "genre": "Ada (Computer program language)Application program interfaces (Computer software)Application software",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 37,
+    "title": "Structured Computer Organization",
+    "author": "Andrew S. Tanenbaum",
+    "year": 1975,
+    "genre": "Computer organizationComputer programmingElectronic digital computers",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-05-27 19:45:06"
+  },
+  {
+    "id": 38,
+    "title": "\u00e2",
+    "author": "a",
+    "year": 2,
+    "genre": "\u00e1d",
+    "description": "\u00e2",
+    "created_at": "2025-06-01 08:10:26"
+  },
+  {
+    "id": 39,
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "year": 1978,
+    "genre": "C (Computer program language)Linguagem De Programacao (Outras)C (programmeertaal)",
+    "description": "Nh\u1eadp t\u1eeb Open Library API",
+    "created_at": "2025-06-01 08:10:51"
+  }
+]
