@@ -467,10 +467,13 @@ class LibraryApp:
             button_frame = ttk.Frame(self.root)
             button_frame.place(relx=0.1, rely=0.8)
 
-            tk.Button(button_frame, text="Sửa",compound='top', image=self.flash, command=self.edit_selected_book).pack(side='left',
-                                                                                                        padx=20)
-            tk.Button(button_frame, text="Xóa",compound='top', image=self.ignite, command=self.delete_selected_book).pack(side='left',
-                                                                                                           padx=20)
+            self.sua = tk.Button(button_frame, text="Sửa",compound='top', image=self.flash, command=self.edit_selected_book)
+            self.sua.pack(side='left',padx=20)
+            self.root.bind('<d>', self.edit_selected_book)
+
+            self.xoa = tk.Button(button_frame, text="Xóa",compound='top', image=self.ignite, command=self.delete_selected_book)
+            self.xoa.pack(side='left',padx=20)
+            self.root.bind('<f>', self.delete_selected_book)
         ttk.Sizegrip(self.root).place(relx=1, rely=1, anchor='se')
 
     def search_books(self, event=None):
@@ -612,7 +615,7 @@ class LibraryApp:
 
         tk.Button(dialog, text="Lưu",image=self.save, command=save_book).place(relx=0.5, rely=1, anchor='s')
 
-    def edit_selected_book(self):
+    def edit_selected_book(self, event=None):
         selected_item = self.tree.selection()
         if not selected_item:
             Messagebox.show_warning("Cảnh báo", "Vui lòng chọn sách cần sửa!")
@@ -686,7 +689,7 @@ class LibraryApp:
 
         tk.Button(dialog, text="Cập nhật",image=self.save, command=update_book).place(relx=0.5, rely=1, anchor='s')
 
-    def delete_selected_book(self):
+    def delete_selected_book(self, event=None):
         selected_item = self.tree.selection()
         if not selected_item:
             Messagebox.show_warning("Cảnh báo", "Vui lòng chọn sách cần xóa!")
